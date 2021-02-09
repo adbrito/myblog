@@ -1,0 +1,42 @@
+h1 a{
+
+	color: #FFFFFF;
+	    background-color: #FE1737;
+	    font-size: 20px;
+
+
+}
+
+h2 a:hover{
+
+	color: #FE1737;
+	text-decoration: none;
+}
+
+h1 a:hover{
+	font-size: 22px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+h2 a {
+     color: #FF5733;
+}
+
+h1 a, h2 a{
+	font-family: 'Righteous', cursive;
+}
+
+
+
+p{
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+
+
+.page-header{
+	background-color: #FE1737;
+	padding: 8px 15px;
+	margin: 0px 0px;
+}
